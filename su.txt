@@ -1,0 +1,4 @@
+pandas 
+numpy
+machine Leanring 
+Deep Learning 
