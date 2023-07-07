@@ -5,3 +5,6 @@ Deep Learning
 NLP
 git
 sssgit status
+matplotklib
+statitics 
+matha
